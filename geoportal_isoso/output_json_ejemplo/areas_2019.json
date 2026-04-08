@@ -1,35 +1,35 @@
 {
   "year": 2019,
-  "total_area_ha": 135487.62,
+  "total_area_ha": 656652.66,
   "clases": {
     "Bosque": {
       "clase_id": 0,
       "nombre": "Bosque",
-      "area_ha": 98542.35,
+      "area_ha": 490656.52,
       "color": "#006400"
     },
     "Herbazal/Arbustal": {
       "clase_id": 1,
       "nombre": "Herbazal/Arbustal",
-      "area_ha": 28734.18,
+      "area_ha": 124569.34,
       "color": "#45C2A5"
     },
     "Agropecuario": {
       "clase_id": 2,
       "nombre": "Agropecuario",
-      "area_ha": 7245.89,
+      "area_ha": 31819.67,
       "color": "#F5B454"
     },
     "Área sin vegetación": {
       "clase_id": 3,
       "nombre": "Área sin vegetación",
-      "area_ha": 853.42,
+      "area_ha": 9443.04,
       "color": "#D4271E"
     },
     "Cuerpos de agua": {
       "clase_id": 4,
       "nombre": "Cuerpos de agua",
-      "area_ha": 111.78,
+      "area_ha": 164.09,
       "color": "#0000FF"
     }
   }
