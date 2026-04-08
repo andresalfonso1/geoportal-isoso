@@ -1,0 +1,22 @@
+# Dependencias para el análisis de Google Earth Engine
+# Proyecto: Geoportal TCO Isoso - Dashboard REDD+/Verra
+
+# Google Earth Engine API
+earthengine-api>=0.1.390
+
+# Análisis de datos
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualización
+plotly>=5.0.0
+matplotlib>=3.5.0
+
+# Mapas interactivos
+geemap>=0.20.0
+
+# Librerías estándar (normalmente ya incluidas con Python)
+# pero las listamos para claridad
+# json - biblioteca estándar
+# os - biblioteca estándar
+# typing - biblioteca estándar (Python 3.5+)

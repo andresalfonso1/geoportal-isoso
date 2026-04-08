@@ -1,0 +1,162 @@
+{
+  "year_inicio": 2019,
+  "year_fin": 2024,
+  "matriz": {
+    "Bosque": {
+      "Bosque": {
+        "area_ha": 90845.32,
+        "from_id": 0,
+        "to_id": 0
+      },
+      "Herbazal/Arbustal": {
+        "area_ha": 4523.68,
+        "from_id": 0,
+        "to_id": 1
+      },
+      "Agropecuario": {
+        "area_ha": 3089.45,
+        "from_id": 0,
+        "to_id": 2
+      },
+      "Área sin vegetación": {
+        "area_ha": 73.25,
+        "from_id": 0,
+        "to_id": 3
+      },
+      "Cuerpos de agua": {
+        "area_ha": 10.65,
+        "from_id": 0,
+        "to_id": 4
+      }
+    },
+    "Herbazal/Arbustal": {
+      "Bosque": {
+        "area_ha": 2283.42,
+        "from_id": 1,
+        "to_id": 0
+      },
+      "Herbazal/Arbustal": {
+        "area_ha": 25678.95,
+        "from_id": 1,
+        "to_id": 1
+      },
+      "Agropecuario": {
+        "area_ha": 687.34,
+        "from_id": 1,
+        "to_id": 2
+      },
+      "Área sin vegetación": {
+        "area_ha": 72.58,
+        "from_id": 1,
+        "to_id": 3
+      },
+      "Cuerpos de agua": {
+        "area_ha": 11.89,
+        "from_id": 1,
+        "to_id": 4
+      }
+    },
+    "Agropecuario": {
+      "Bosque": {
+        "area_ha": 0.0,
+        "from_id": 2,
+        "to_id": 0
+      },
+      "Herbazal/Arbustal": {
+        "area_ha": 2381.48,
+        "from_id": 2,
+        "to_id": 1
+      },
+      "Agropecuario": {
+        "area_ha": 4864.41,
+        "from_id": 2,
+        "to_id": 2
+      },
+      "Área sin vegetación": {
+        "area_ha": 0.0,
+        "from_id": 2,
+        "to_id": 3
+      },
+      "Cuerpos de agua": {
+        "area_ha": 0.0,
+        "from_id": 2,
+        "to_id": 4
+      }
+    },
+    "Área sin vegetación": {
+      "Bosque": {
+        "area_ha": 0.0,
+        "from_id": 3,
+        "to_id": 0
+      },
+      "Herbazal/Arbustal": {
+        "area_ha": 159.72,
+        "from_id": 3,
+        "to_id": 1
+      },
+      "Agropecuario": {
+        "area_ha": 0.0,
+        "from_id": 3,
+        "to_id": 2
+      },
+      "Área sin vegetación": {
+        "area_ha": 693.7,
+        "from_id": 3,
+        "to_id": 3
+      },
+      "Cuerpos de agua": {
+        "area_ha": 0.0,
+        "from_id": 3,
+        "to_id": 4
+      }
+    },
+    "Cuerpos de agua": {
+      "Bosque": {
+        "area_ha": 0.0,
+        "from_id": 4,
+        "to_id": 0
+      },
+      "Herbazal/Arbustal": {
+        "area_ha": 21.48,
+        "from_id": 4,
+        "to_id": 1
+      },
+      "Agropecuario": {
+        "area_ha": 0.0,
+        "from_id": 4,
+        "to_id": 2
+      },
+      "Área sin vegetación": {
+        "area_ha": 1.22,
+        "from_id": 4,
+        "to_id": 3
+      },
+      "Cuerpos de agua": {
+        "area_ha": 89.08,
+        "from_id": 4,
+        "to_id": 4
+      }
+    }
+  },
+  "resumen": {
+    "area_total_ha": 135487.62,
+    "area_cambio_ha": 13204.75,
+    "area_estable_ha": 122282.87,
+    "porcentaje_cambio": 9.75,
+    "porcentaje_estable": 90.25
+  },
+  "clase_nombres": {
+    "0": "Bosque",
+    "1": "Herbazal/Arbustal",
+    "2": "Agropecuario",
+    "3": "Área sin vegetación",
+    "4": "Cuerpos de agua"
+  },
+  "clase_colores": {
+    "0": "#006400",
+    "1": "#45C2A5",
+    "2": "#F5B454",
+    "3": "#D4271E",
+    "4": "#0000FF"
+  }
+}
